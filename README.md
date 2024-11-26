@@ -1,7 +1,11 @@
-![img_github_banner](https://user-images.githubusercontent.com/16536937/209349681-d1b37a6c-d68d-47ea-a6cd-a9b4ddef28e1.png)
+![github_banner](https://github.com/user-attachments/assets/4acf6462-925b-4e49-bc37-51e76a55c09b)
 
-<!--
+
 ### Hi there 👋
+I worked as an Android Developer. During my work, I implemented many features in Android Applications.
+<!--
+My current expertise is being able to implement features into applications not only using Java language, but I will be able to implement and build applications using Kotlin language, create dynamic and responsive layout design, SOLID code, and easy to maintain by other teams.
+
 **romydewantara/romydewantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
