@@ -1,7 +1,7 @@
 <!--<code><img src="https://raw.githubusercontent.com/romydewantara/romydewantara/refs/heads/main/src/romydewantara.svg"></code>
 ![github_banner](https://github.com/user-attachments/assets/4acf6462-925b-4e49-bc37-51e76a55c09b)
 -->
-![github_romy](https://github.com/user-attachments/assets/14502340-a2c7-42b2-872a-a396455e914d)
+![github_romy](https://github.com/user-attachments/assets/618065f7-749b-4768-8a03-553323e5d7d6)
 ## Hi there! My name is Romy 👋
 I graduated from the institute of Computer Science in 2020. I started working as an Android Developer since 2019, during which time I implemented many features for Android applications. I took free courses from the online academy and then I practiced building my own apps. I like to discuss with seniors and colleagues, building good communication.
 
@@ -21,8 +21,8 @@ I graduated from the institute of Computer Science in 2020. I started working as
 ## Languages and Tools familiar or experienced with:
 | Type | Badges |
 | -- | -- |
-| Primary Languages | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
-| Primary Framework and Tools | ![Android](https://img.shields.io/badge/Android%20-green.svg?&style=for-the-badge&logo=Android&logoColor=white) ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) |
+| Primary Languages | ![Static Badge](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Swing&logoColor=white&logoSize=auto&color=%23ff2c2c) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
+| Primary Framework and Tools | ![Static Badge](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white&logoSize=auto&color=Green) ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/SourceTree-blue?style=for-the-badge&logo=sourcetree&logoColor=white&logoSize=auto&color=blue) |
 | Currently Learning | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
 | I also Know | ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 | For Design | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) |
