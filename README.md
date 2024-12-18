@@ -3,7 +3,7 @@
 -->
 ![github_romy](https://github.com/user-attachments/assets/618065f7-749b-4768-8a03-553323e5d7d6)
 ## Hi there! My name is Romy 👋
-I graduated from the Institute of Computer Science in 2020. I have been working as an Android Developer, and during that time I implemented many features for Android applications. I took free courses from the online academy and then I practiced building my apps. Committed to continuous learning and staying at the forefront of technology trends to shape innovation in the next decade.
+I graduated from the Institute of Computer Science in 2020. I have been working as an Android Developer for 6 years, and during that time I implemented many features for Android applications. I took free courses from the online academy and then I practiced building my apps. Committed to continuous learning and staying at the forefront of technology trends to shape innovation in the next decade.
 
 ---
 ## Languages and Tools familiar or experienced with:
