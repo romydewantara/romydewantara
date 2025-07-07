@@ -4,7 +4,7 @@
 ![github_romy](https://github.com/user-attachments/assets/dbd59769-c03a-4ff7-928c-e95504a9a1eb)
 
 ## Hi there! My name is Romy 👋
-I graduated from the Institute of Computer Science in 2020. I have been working as an Android Developer for 6 years, and during that time I implemented many features for Android applications. I took free courses from the online academy and then I practiced building my apps. Committed to continuous learning and staying at the forefront of technology trends to shape innovation in the next decade.
+Android Engineer with 6 years of experience in building scalable and maintainable mobile applications. Focused on delivering clean code, intuitive UX, and reliable architecture. Passionate about modern Android development, especially in Jetpack Compose, Clean Architecture, Kotlin Coroutines, and unit testing. Self-driven learner with a strong interest in best practices and evolving technologies. Currently exploring ways to contribute more meaningfully to the Android ecosystem through open-source and collaborative projects.
 
 ---
 ## Languages and Tools familiar or experienced with:
